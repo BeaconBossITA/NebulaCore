@@ -9,4 +9,4 @@ Minecraft server that make the server more beautiful!
 * Command for member
 * Server updates (example: join and quit message) and more...
 
-[!IMPORTANT] Do not change the value of the variable ```version``` in the nebula_core.sk file
+Do not change the value of the variable ```version``` in the nebula_core.sk file
